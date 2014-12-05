@@ -56,3 +56,4 @@ r <- matrix(c(1, 1, 1), ncol = 1)
 
 r <- M %*% r
 r
+
